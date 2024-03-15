@@ -39,3 +39,8 @@ button {
 button:hover {
     background-color: #555;
 }
+#logo {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
